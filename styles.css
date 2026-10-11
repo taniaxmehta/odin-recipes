@@ -1,0 +1,65 @@
+body {
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "Brush Script MT", cursive;
+  text-align: center;
+}
+
+.recipes-list {
+  background-color: #e5c2c0;
+  margin: 10px;
+  text-align: center;
+}
+
+.recipe {
+  background-color: #8fd5a6;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 0px;
+}
+
+a {
+  color: black;
+  font-family: "Inter", sans-serif;
+  padding: 10px;
+}
+
+a:hover {
+  color: wheat;
+  background-color: #1f4252;
+  padding: 10px;
+}
+
+.text {
+  display: inline-block;
+  margin-right: -15px;
+  width: 50%;
+}
+
+section {
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  font-family: "Inter", sans-serif;
+}
+
+.left {
+  float: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  padding: 20px 10px;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.right {
+  margin: 10px;
+  padding: 10px;
+}
